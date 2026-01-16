@@ -6,7 +6,7 @@
 body {
   margin: 0;
   /* background: linear-gradient(red, blue); */
-  background-image: url("assets/image.png");
+  background-image: url("src/assets/image.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -24,7 +24,7 @@ body {
 
 /* Card */
 .card {
-  background: url("assets/Ai.jpg");
+  background: url("src/assets/Ai.jpg");
     background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
