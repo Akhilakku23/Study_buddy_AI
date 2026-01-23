@@ -28,13 +28,13 @@ export default function App() {
   const gradientVariants = {
     animate: {
       background: [
-        "linear-gradient(135deg, #1e3c72, #8eade3)",
+        "linear-gradient(135deg, #1e3c72, #8eade3) , #007fd4, #0d54d8",
         "linear-gradient(135deg, #8eade3, #1e3c72)",
         "linear-gradient(135deg, #1a8ea8d3, #007fd4)",
         "linear-gradient(135deg, #00d4435b, #0d54d8)",
       ],
       transition: {
-        duration: 15,
+        duration: 10,
         repeat: Infinity,
         repeatType: "loop",
         ease: "linear",
